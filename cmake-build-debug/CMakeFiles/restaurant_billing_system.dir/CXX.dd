@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/restaurant_billing_system.dir/src/admin.cpp.o: dyndep
-
-build CMakeFiles/restaurant_billing_system.dir/src/billing.cpp.o: dyndep
-
-build CMakeFiles/restaurant_billing_system.dir/src/main.cpp.o: dyndep
-
-build CMakeFiles/restaurant_billing_system.dir/src/user.cpp.o: dyndep
-
