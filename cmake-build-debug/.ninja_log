@@ -1,0 +1,18 @@
+# ninja log v6
+314	323	1735825173814041915	CMakeFiles/restaurant_billing_system.dir/src/user.cpp.o.modmap	b2348a6382538d2b
+325	1277	1735825173822038490	CMakeFiles/restaurant_billing_system.dir/src/user.cpp.o	c55fe4cbb158c277
+1135	1255	1734956647964808480	restaurant_billing_system	88c4da572fd98261
+314	323	1735825173814041915	CMakeFiles/restaurant_billing_system.dir/src/billing.cpp.o.modmap	b2348a6382538d2b
+314	323	1735825173814041915	CMakeFiles/restaurant_billing_system.dir/src/admin.cpp.o.modmap	b2348a6382538d2b
+1	7	1734955444191428008	clean	ea9dea1471b82a9d
+325	1264	1735825173822038490	CMakeFiles/restaurant_billing_system.dir/src/main.cpp.o	4095a845af16414f
+314	323	1735825173814041915	CMakeFiles/restaurant_billing_system.dir/src/main.cpp.o.modmap	b2348a6382538d2b
+194	213	1734955444523519362	CMakeFiles/restaurant_billing_system.dir/src/billing.cpp.o	5055845196ba009c
+5	261	1735825173502175491	CMakeFiles/restaurant_billing_system.dir/src/admin.cpp.o.ddi	e741f7dd068de43d
+4	28	1734955444331466531	CMakeFiles/restaurant_billing_system.dir/src/billing.cpp.o.ddi	a5fec13a4f55f62e
+7	286	1735825173506173778	CMakeFiles/restaurant_billing_system.dir/src/user.cpp.o.ddi	d429c6aa8b924ff3
+6	314	1735825173506173778	CMakeFiles/restaurant_billing_system.dir/src/main.cpp.o.ddi	433e780fd210705e
+324	1239	1735825173822038490	CMakeFiles/restaurant_billing_system.dir/src/admin.cpp.o	1e731ab785f610f7
+314	323	1735825173814041915	/home/priver/Studies/restaurant_billing_system/cmake-build-debug/CMakeFiles/restaurant_billing_system.dir/CXXModules.json	b2348a6382538d2b
+314	323	1735825173814041915	CMakeFiles/restaurant_billing_system.dir/CXX.dd	b2348a6382538d2b
+2	49	1735825384534763645	build.ninja	7235dfd3121f7318
